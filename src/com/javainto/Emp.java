@@ -24,7 +24,7 @@ public class Emp {
 		Emp e2 = new Emp();
 		
 		
-		e2.display();// method in object
+		e2.display();// object in method or out of scope
 
 
 		
