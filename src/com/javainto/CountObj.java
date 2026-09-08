@@ -1,7 +1,7 @@
 package com.javainto;
 
 public class CountObj {
-  static int count = 0;
+   static int count = 0;
 	
 	
 	{
