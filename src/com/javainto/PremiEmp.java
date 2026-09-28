@@ -6,7 +6,7 @@ public class PremiEmp {
 	double sal = 30000.30;
 	float grade = 8.9f;
 	boolean act = true;
-	int leaves = 130;
+	int leaves = 3;
 	long phone = 981348034L;
 	int  count = leaves;
 	
@@ -22,6 +22,7 @@ public class PremiEmp {
 
 	public static void main(String[] args) {
 		PremiEmp p = new PremiEmp();
+		p.leav();
 		p.leav();
 		p.leav();
 		p.leav();
